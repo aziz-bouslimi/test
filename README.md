@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=SENIOR%20TECHNICIAN;%20EMBDDED-SYSTEM%20DEVELOPPER%20;3%2B%20years%20of%20coding%20experience;%20%20MOBILE%20APPLICATION%20DEVELOPPER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=221dab&vCenter=true&size=22&pause=10"></a>
   
   
-  
+  ***********************************
   
   📍I am Aziz from Tunisia, and I do embedded development.
 I enjoy learning new technologies and exploring tech.
